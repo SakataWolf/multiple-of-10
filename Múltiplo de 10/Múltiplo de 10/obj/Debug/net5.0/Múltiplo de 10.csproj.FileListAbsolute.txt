@@ -1,0 +1,16 @@
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\Múltiplo de 10.exe
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\Múltiplo de 10.deps.json
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\Múltiplo de 10.runtimeconfig.json
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\Múltiplo de 10.runtimeconfig.dev.json
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\Múltiplo de 10.dll
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\ref\Múltiplo de 10.dll
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\bin\Debug\net5.0\Múltiplo de 10.pdb
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.csproj.AssemblyReference.cache
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.AssemblyInfoInputs.cache
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.AssemblyInfo.cs
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.dll
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\ref\Múltiplo de 10.dll
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.pdb
+D:\Etec\PA\Múltiplo de 10\Múltiplo de 10\obj\Debug\net5.0\Múltiplo de 10.genruntimeconfig.cache
